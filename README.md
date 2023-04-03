@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hola amigos 👋
 
-<!--
+
 **standMaldonado/standMaldonado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Actualmente estoy estudiando 😈
+- 🌱 Me gusta el lol
+- 👯 Colaboro con CasinosDuoc
+- 🤔 estoy buscando un dúo informatico
+- 💬 Preguntenme lo que quieran del parche
+- 📫 para contactarme: Stand#LAS
+- 😄 StandMaldonado
+- ⚡ Voy a terminar todos los juegos de riot
+
